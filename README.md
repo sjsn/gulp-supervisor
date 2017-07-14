@@ -61,7 +61,7 @@ The executable that runs the specified script.
 
 ##### debug
 Type: `Boolean`  
-Starts node with `--debug` flag.
+Starts node with `--inspect` flag.
 
 ##### debugBrk
 Type: `Boolean`  

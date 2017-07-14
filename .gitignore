@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
 npm-debug.log
+
+# npm v5.x auto-generated package lock
+package-lock.json
