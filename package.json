@@ -1,6 +1,6 @@
 {
   "name": "gulp-supervisor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Run supervisor as a gulp task for easy integration with the rest of your workflow.",
   "keywords": [
     "gulpfriendly",
@@ -33,12 +33,12 @@
     "node": ">= 0.8.0"
   },
   "devDependencies": {
-    "gulp": "~3.6",
-    "gulp-jshint": "~1.5",
+    "express": "~4.1",
+    "gulp": "^3.9.1",
     "gulp-coffee": "~1.4",
-    "express": "~4.1"
+    "gulp-jshint": "~1.5"
   },
   "dependencies": {
-    "supervisor": "~0.6"
+    "supervisor": "~0.12.0"
   }
 }
